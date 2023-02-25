@@ -46,7 +46,7 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 - In actively seeking what works for us as a group, I do not use implicit communication, rather, I express myself explicitly and clearly using words
 - In actively seeking what works for us as a group, I invite others not to rely on implicit communication, but rather, to use explicit and clear communication instead
 - As my collaboration with a group of people continues to evolve, I continue to express things as they come up, in an explicit and a clear way
-- As my collaboration with a group of people continues to evolve, I continue to encourage others to express things that might come up, in an explicit and clear way
+- As my collaboration with a group of people continues to evolve, I continue to encourage others to express things that might come up, in an explicit and a clear way
 - I genuinely seek to accommodate (and not blame others) with all of their intricacies, and I trust that I will be accommodated (and not blamed) with all of mine
 
 # III. I take responsibility and practice openness
