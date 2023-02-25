@@ -101,10 +101,11 @@ _This is two sections in one, with two possible formulations for each one of the
 
 ## Logical safety
 
-1. **for me:** I know that others strive to ensure that I am ...
-2. **for others:** I strive to ensure that others are ...
+1. **for me:** I know that others strive to ensure that my ...
+2. **for others:** I strive to ensure that others' ...
 
-> ... ensuring that the learning personality and way of logical comprehension of everyone is respected and is never out of place.
+
+> ... learning personality, logical doubts, and inability to comprehend something is fully respected and is never out of place.
 
 > And hence, we individually know that when we:
 > - get distracted during class,
