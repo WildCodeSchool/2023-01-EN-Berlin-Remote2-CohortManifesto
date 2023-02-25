@@ -22,7 +22,7 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 >>> MANIFESTO STARTS HERE
 ```
 
-# My classroom, my rules
+# I. My classroom, my rules
 
 - No one gets to decide what I learn here, beside me
 - There is no one for whom I am learning here, beside me
@@ -36,45 +36,66 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 - Even if I do not meet my own expectations, I do not blame myself
 - Instead of putting myself down, I learn to adjust my expectations
 
-# It is all me, I take responsibility
+# II. Our team, our rules
+
+- As a number of people working together, we are in charge of what our project is all about, the methods we apply, and the technologies we want to use
+- As a number of people working together, we know best what works for us, in the sense of meeting the the rules we set for ourselves (part I)
+- I let the group of people I am working with know explicitly what I am seeking from our collaboration, and what meets the rules I set for myself (part I)
+- I let the group of people I am working with know explicitly what I a not okay with in our collaboration, and what does not meet the rules I set for myself (part I)
+- I work actively with my classmates to ensure that what we are doing meets my rules and theirs too
+- In actively seeking what works for us, I do not use implicit communication, rather, I express myself explicitly and clearly using words
+- In actively seeking what works for us, I invite others not to rely on implicit communication, but rather, to use explicit and clear communication instead
+- As my colaboration with a group of people continues to evolve, I continue to express things as they come up, in an explicit and a clear way
+- As my colaboration with a group of people continues to evolve, I continue to encourage other to express things that might come up, in an explicit and clear way
+- I genuinely seek to accommodate (and not blame others) with all of their intricacies, and I trust that I will be accommodated (and not blamed) with all of mine
+
+# III. I take responsibility and practice openness
 
 - When I am frustrated, it is because of how I am coping
 - Instead of dwelling on how I feel, I reflect on how I am coping with the situation
-- I do not continue to cope in a certain way, if this is not making me feel good
+- I do not continue to cope in a certain way, if it is not making me feel good
 - When I do not feel good, others also do not feel good
-- When I am stuck or coping poorly, I feel responsible for unstucking myself
-- To unstuck myself, I actively reach out for help, and seek advice from people I trust
+- When I am stuck or coping poorly, I feel responsible for un-sticking myself
+- To un-stick myself, I actively reach out for help, and seek advice from people I trust
 - Under no circumstance, I fall into the trap of [rationalising my feelings](https://en.wikipedia.org/wiki/Emotional_reasoning)
 - Under no circumstance, I start blaming others for how I am feeling
+- Under no circumstance, that I will shame or blame anyone for sharing their emotional state when this is done in a healthy way and while taking responsibility
+- I speak my truth, while taking responsibility for how I am feeling, knowing that it is not easy to do so, and knowing that there might be consequences that I do not want to deal with
+- I know that when I do not speak my truth, that others might not feel safe when interacting with me
 
-# We are safe here
+# IV. I act out my better self
 
 - I do not let my ego stand in the way of learning, I focus, instead, on logical conclusions and compelling arguments
-- My pride or reputation is not what I need to demonstrate, rather, it is my empathy and merit
-- I do not think in "good" or "bad" terms, rather, I try to see pros and cons to everything
-- I do not think of things as stupid, rather, I seek structure and clarity
-- I communicate shortcomings positively, and give others constructive and honest feedback
-- I constantly communicate what I need from others to meet my own expectations, and to be productive
-- I speak my truth, even when it is not easy, and even when I fear that there might be consequences that I want to avoid
-- I know that when I do not speak my truth, others might not feel safe when interacting with me
+- My pride or reputation is not what I need to demonstrate to others, rather, it is my empathy and merit
+- I do not think in "good" or "bad" terms, rather, I try to see "pros" and "cons" to everything
+- I do not think of things or people as "stupid", rather, I seek and promote structure and clarity
+- I communicate what I see as "shortcomings" positively, and give others constructive and honest feedback
 
-# I am safe here
+# V. I strive to make others feel safe, and I have faith that others prioritise my sense of saftey
 
-## I am safe physically
-... I am safe because I have faith that my physical needs come first. I understand that my need for food, shelter, warmth, a performant laptop/computer, and a peaceful place to study are all very important, and not taken for granted. I will not hesitate to speak up if some of my basic needs are not being met (permanently or temporarily), even when it is not immediately clear to me what can be done about it.
+_These can be formulated in two ways, starting with either:_
+a. I know that others strive to ensure that my/I am ...
+b. I strive to ensure that others'/others are ...
 
-## I am safe socially
-... I am safe because I have faith that I will be accepted regardless of my race, my gender, my religious belief, my habits, my preferences, my appearance, my dress, and/or my manners. What is most important for me is to be fully comfortable during class, which means being fully myself.
+_It is a two way street..._
 
-If someone else was not comfortable with me being who I am, I know that we will together try to find a way to allow me be myself and make others comfortable. It will not be a personal attack and I will feel naturally inclined to understand my classmates and to help them be comfortable without judgement and while accommodating each other from a place of love and inclusion.
+_Hence, please stitch the above two sentences with each one of the sentences starting with three dots "..." in the following subsections._
 
-## I am safe emotionally
-... I am safe because I have faith that no one will bully me, lobby with others against me, pass hidden messages to me when I am not aware, act passively aggressively towards me, or speak behind my back. Instead, I have complete faith that everyone in the classroom will communicate openly and honestly with me and that we will use effective and empathetic communication to achieve harmony, overcome conflict, and widen our perspectives.
+## Physical safety
+... physical needs are met. I understand that anyone's need for food, shelter, warmth, a performant laptop/computer, and a peaceful place to study are all very important for us all, and not taken for granted by anyone. We will hence not hesitate to speak up if some of our basic needs are not being met (permanently or temporarily), even when it is not immediately clear to us what can be done about it.
 
-## I am safe logically
-... I am safe because I have faith that my learning personality and comprehension are respected and are never out of place, and hence I know that when I get distracted during class, miss a few steps, or not understand something, that I am invited to raise my hand, unmute myself, and/or express my confusion immediately. Doing this, I feel safe and assured that non of this will be seen as disruptive or will lead to behavioral accusations.
+## Social safety
+... accepted regardless of their looks, race, gender, religious belief, habits, preferences, way of expression, personal style, or manners. What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us when our "way of being" triggers them, or collides with their sense of well-being and/or comfort.
 
-Sometimes, the facilitator might promise to attend to the points I raise at a later time. In this case, I know that they mean well and that they do their best to cater to everyone and not just me, hence I remind myself that they might forget and take it upon myself to remind them and ask them later without feeling bad about it.
+We know that it is normal that sometimes, some people might not feel comfortable with "us being ourselves", we know that when this happens, that we will together try to find a way to allow us to be ourselves while making each other comfortable. It will not be a personal attack on anyone of us when this happens and we will naturally feel inclined to understand one another and to help them be as comfortable as possible without judgement.
+
+## Emotional safety
+... putting a conscious effort into not emotionally maniopulating, bullying, lobbying with others, passing hidden messages, or using silent aggression. Instead, we have complete faith that everyone in the classroom will communicate openly and honestly with one another and that we will use effective and empathetic communication to achieve harmony, overcome conflict, and widen our perspectives.
+
+## Logical safety
+... ensuring that the learning personality and way of logical comprehension of each and everyone are highly-regarded, respected and are never out of place, and hence we individually know that when we get distracted during class, miss a few steps in a workshop, look at the wrong slide, or not understand something, that we are so invited to raise our hand, unmute ourselves, and/or express our confusion immediately and in an unapologetic manner. Doing this, we know that it is highly encouraged, for the best of everyone in the classroom and feel totally safe and assured that no one will perceive this as disruptive or that any of this will result in behavioral accusations from anyone.
+
+Sometimes, the facilitator might promise to attend to the points we raise during classtime at a later time. In this case, we know that he/she means well and that he/she is doing his/her best to cater to everyone, hence we remind ourselves that he/she might forget to attend to the point and take it upon ourselves to remind his/her later without feeling bad about it.
 
 ```
 <<< MANIFESTO ENDS HERE
