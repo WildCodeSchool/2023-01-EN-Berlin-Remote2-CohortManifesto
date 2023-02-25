@@ -41,12 +41,12 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 - As a number of people working together, we are in charge of what our project is all about, the methods we apply, and the technologies we want to use
 - As a number of people working together, we know best what works for us, in the sense of meeting the the rules we set for ourselves (part I)
 - I let the group of people I am working with know explicitly what I am seeking from our collaboration, and what meets the rules I set for myself (part I)
-- I let the group of people I am working with know explicitly what I a not okay with in our collaboration, and what does not meet the rules I set for myself (part I)
-- I work actively with my classmates to ensure that what we are doing meets my rules and theirs too
-- In actively seeking what works for us, I do not use implicit communication, rather, I express myself explicitly and clearly using words
-- In actively seeking what works for us, I invite others not to rely on implicit communication, but rather, to use explicit and clear communication instead
-- As my colaboration with a group of people continues to evolve, I continue to express things as they come up, in an explicit and a clear way
-- As my colaboration with a group of people continues to evolve, I continue to encourage other to express things that might come up, in an explicit and clear way
+- I let the group of people I am working with know explicitly what I am not okay with in our collaboration, and what does not meet the rules I set for myself (part I)
+- I work actively with those people to ensure that what we are doing meets my rules and theirs too
+- In actively seeking what works for us as a group, I do not use implicit communication, rather, I express myself explicitly and clearly using words
+- In actively seeking what works for us as a group, I invite others not to rely on implicit communication, but rather, to use explicit and clear communication instead
+- As my collaboration with a group of people continues to evolve, I continue to express things as they come up, in an explicit and a clear way
+- As my collaboration with a group of people continues to evolve, I continue to encourage others to express things that might come up, in an explicit and clear way
 - I genuinely seek to accommodate (and not blame others) with all of their intricacies, and I trust that I will be accommodated (and not blamed) with all of mine
 
 # III. I take responsibility and practice openness
@@ -55,8 +55,8 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 - Instead of dwelling on how I feel, I reflect on how I am coping with the situation
 - I do not continue to cope in a certain way, if it is not making me feel good
 - When I do not feel good, others also do not feel good
-- When I am stuck or coping poorly, I feel responsible for un-sticking myself
-- To un-stick myself, I actively reach out for help, and seek advice from people I trust
+- When I am stuck or coping poorly, I feel responsible for unsticking myself
+- To unstick myself, I actively reach out for help, and seek advice from people I trust
 - Under no circumstance, I fall into the trap of [rationalising my feelings](https://en.wikipedia.org/wiki/Emotional_reasoning)
 - Under no circumstance, I start blaming others for how I am feeling
 - Under no circumstance, that I will shame or blame anyone for sharing their emotional state when this is done in a healthy way and while taking responsibility
@@ -74,8 +74,8 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 # V. I strive to make others feel safe, and I have faith that others prioritise my sense of saftey
 
 _These can be formulated in two ways, starting with either:_
-a. I know that others strive to ensure that my/I am ...
-b. I strive to ensure that others'/others are ...
+1. I know that others strive to ensure that my/I am ...
+2. I strive to ensure that others'/others are ...
 
 _It is a two way street..._
 
