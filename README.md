@@ -90,11 +90,9 @@ _This is two sections in one, with two possible formulations for each one of the
 
 > ... accepted regardless of their looks, race, gender, religious belief, habits, preference, way of expression, personal style, or manners.
 
-> What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us when our "way of being" triggers them, or collides with their sense of well-being and/or comfort.
+> What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us if we trigger them, or do things that interfere with their sense of well-being and/or comfort.
 
-> We know that sometimes, some people might not feel comfortable with "us being ourselves". It is totally normal that such things happen.
-
-> We know that when this happens, we will together try to find a way to allow us all to be ourselves while making each other comfortable.
+> We know that when this happens, that it has nothing to do with us, and has everything to do with demonstrating our kindness, and accommodating each other, from a place of love and inclusion.
 
 > It will not be a personal attack on anyone when something like this happens, and we will feel inclined to understand one another and to help them be as comfortable as possible without judgement.
 
