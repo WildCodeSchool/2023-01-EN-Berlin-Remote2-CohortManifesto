@@ -39,7 +39,7 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 # II. Our team, our rules
 
 - As a number of people working together, we are in charge of what our project is all about, the methods we apply, and the technologies we want to use
-- As a number of people working together, we know best what works for us, in the sense of meeting the the rules we set for ourselves (part I)
+- As a number of people working together, we know best what works for us
 - I let the group of people I am working with know explicitly what I am seeking from our collaboration, and what meets the rules I set for myself (part I)
 - I let the group of people I am working with know explicitly what I am not okay with in our collaboration, and what does not meet the rules I set for myself (part I)
 - I work actively with those people to ensure that what we are doing meets my rules and theirs too
