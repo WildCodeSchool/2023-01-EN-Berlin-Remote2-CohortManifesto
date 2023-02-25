@@ -74,7 +74,7 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 # V. I strive to make others feel safe
 # V. I have faith that others prioritise my sense of saftey
 
-_This is two sections in one, with two possible formulations for each one of the subsection paragraphs (named **for me** and **for others**)._
+_These are two sections in one, with two possible formulations for each one of the subsection paragraphs (named **for me** and **for others**)._
 
 ## Physical safety
 
