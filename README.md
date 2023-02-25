@@ -117,6 +117,7 @@ _This is two sections in one, with two possible formulations for each one of the
 > And hence, we individually know that when we:
 > - get distracted during class,
 > - miss a few steps during a workshop,
+> - have a faulty laptop setup,
 > - look at the wrong slide,
 > - not understand why the class is taking a certain direction
 
