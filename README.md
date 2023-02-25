@@ -104,7 +104,17 @@ _This is two sections in one, with two possible formulations for each one of the
 1. **for me:** I know that others strive to ensure that I am ...
 2. **for others:** I strive to ensure that others are ...
 
-> ... ensuring that the learning personality and way of logical comprehension of each and everyone are highly-regarded, respected and are never out of place, and hence we individually know that when we get distracted during class, miss a few steps in a workshop, look at the wrong slide, or not understand something, that we are so invited to raise our hand, un-mute ourselves, and/or express our confusion immediately and in an unapologetic manner. Doing this, we know that it is highly encouraged, for the best of everyone in the classroom and feel totally safe and assured that no one will perceive this as disruptive or that any of this will result in behavioral accusations from anyone.
+> ... ensuring that the learning personality and way of logical comprehension of everyone is respected and is never out of place.
+
+> And hence, we individually know that when we:
+> - get distracted during class,
+> - miss a few steps during a workshop,
+> - look at the wrong slide,
+> - not understand why the class is taking a certain direction
+> ... that we are so invited 🥰 to raise our hand, un-mute ourselves, and express our confusion immediately. Doing so, we know that it:
+> - is highly encouraged and pleasing to the facilitator, 
+> - serves a wonderful purpose for everyone in the classroom
+> - is a positive action that will never be perceived as disruptive, or lead to behavioral accusations from anyone.
 
 > Sometimes, the facilitator might promise to attend to the points we raise during class time at a later time. In this case, we know that he/she means well and that he/she is doing his/her best to cater to everyone, hence we remind ourselves that he/she might forget to attend to the point and take it upon ourselves to remind his/her later without feeling bad about it.
 
