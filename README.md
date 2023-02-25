@@ -81,7 +81,7 @@ _This is two sections in one, with two possible formulations for each one of the
 1. **for me:** I know that others strive to ensure that my ...
 2. **for others:** I strive to ensure that others' ...
 
-> ... physical needs are met. I understand that everyone's need for food, shelter, warmth, a performant laptop/computer, and a peaceful place to study are all very important for all of us, and not taken for granted by anyone. We will hence not hesitate to speak up if some of our basic needs are not being met (permanently or temporarily), even when it is not immediately clear to us what can be done about it.
+> ... physical needs are met. I understand that everyone's need for food, shelter, warmth, a performant laptop/computer, and a peaceful place to study are all very important for all of us, and not taken for granted by anyone. We will hence not hesitate to speak up if some of our basic needs are not being met (temporarily or permanently), even when it is not immediately clear to us what can be done about it.
 
 ## Social safety
 
