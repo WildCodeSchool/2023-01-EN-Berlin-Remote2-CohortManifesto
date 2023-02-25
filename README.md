@@ -77,9 +77,7 @@ _These can be formulated in two ways, starting with either:_
 1. I know that others strive to ensure that my _or_ that I am ...
 2. I strive to ensure that others' _or_ that others are ...
 
-_It is a two way street..._
-
-_Hence, please stitch the above two sentences with each one of the sentences starting with three dots "..." in the following subsections._
+_Hence, please stitch the above two sentences with each one of the paragraphs below starting with three dots "..." in the following subsections._
 
 ## Physical safety
 ... physical needs are met. I understand that anyone's need for food, shelter, warmth, a performant laptop/computer, and a peaceful place to study are all very important for us all, and not taken for granted by anyone. We will hence not hesitate to speak up if some of our basic needs are not being met (permanently or temporarily), even when it is not immediately clear to us what can be done about it.
