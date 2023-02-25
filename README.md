@@ -71,13 +71,10 @@ One way to think of the manifesto, hence, is **as a social contract that we will
 - I do not think of things or people as "stupid", rather, I seek and promote structure and clarity
 - I communicate what I see as "shortcomings" positively, and give others constructive and honest feedback
 
-# V. I strive to make others feel safe, and I have faith that others prioritise my sense of saftey
+# V. I strive to make others feel safe
+# V. I have faith that others prioritise my sense of saftey
 
-_These can be formulated in two ways, starting with either:_
-1. I know that others strive to ensure that my _or_ that I am ...
-2. I strive to ensure that others' _or_ that others are ...
-
-_Hence, please stitch the above two sentences with each one of the paragraphs below starting with three dots "..." in the following subsections._
+_This is two sections in one, with two possible formulations for each one of the subsection paragraphs (named **for me** and **for others**)._
 
 ## Physical safety
 
@@ -87,17 +84,29 @@ _Hence, please stitch the above two sentences with each one of the paragraphs be
 > ... physical needs are met. I understand that everyone's need for food, shelter, warmth, a performant laptop/computer, and a peaceful place to study are all very important for us all, and not taken for granted by anyone. We will hence not hesitate to speak up if some of our basic needs are not being met (permanently or temporarily), even when it is not immediately clear to us what can be done about it.
 
 ## Social safety
-... accepted regardless of their looks, race, gender, religious belief, habits, preferences, way of expression, personal style, or manners. What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us when our "way of being" triggers them, or collides with their sense of well-being and/or comfort.
 
-We know that it is normal that sometimes, some people might not feel comfortable with "us being ourselves", we know that when this happens, that we will together try to find a way to allow us to be ourselves while making each other comfortable. It will not be a personal attack on anyone of us when this happens and we will naturally feel inclined to understand one another and to help them be as comfortable as possible without judgement.
+1. **for me:** I know that others strive to ensure that I am ...
+2. **for others:** I strive to ensure that others are ...
+
+> ... accepted regardless of their looks, race, gender, religious belief, habits, preferences, way of expression, personal style, or manners. What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us when our "way of being" triggers them, or collides with their sense of well-being and/or comfort.
+
+> We know that it is normal that sometimes, some people might not feel comfortable with "us being ourselves", we know that when this happens, that we will together try to find a way to allow us to be ourselves while making each other comfortable. It will not be a personal attack on anyone of us when this happens and we will naturally feel inclined to understand one another and to help them be as comfortable as possible without judgement.
 
 ## Emotional safety
-... putting a conscious effort into not emotionally maniopulating, bullying, lobbying with others, passing hidden messages, or using silent aggression. Instead, we have complete faith that everyone in the classroom will communicate openly and honestly with one another and that we will use effective and empathetic communication to achieve harmony, overcome conflict, and widen our perspectives.
+
+1. **for me:** I know that others strive to ensure that I am ...
+2. **for others:** I strive to ensure that others are ...
+
+> ... putting a conscious effort into not emotionally maniopulating, bullying, lobbying with others, passing hidden messages, or using silent aggression. Instead, we have complete faith that everyone in the classroom will communicate openly and honestly with one another and that we will use effective and empathetic communication to achieve harmony, overcome conflict, and widen our perspectives.
 
 ## Logical safety
-... ensuring that the learning personality and way of logical comprehension of each and everyone are highly-regarded, respected and are never out of place, and hence we individually know that when we get distracted during class, miss a few steps in a workshop, look at the wrong slide, or not understand something, that we are so invited to raise our hand, unmute ourselves, and/or express our confusion immediately and in an unapologetic manner. Doing this, we know that it is highly encouraged, for the best of everyone in the classroom and feel totally safe and assured that no one will perceive this as disruptive or that any of this will result in behavioral accusations from anyone.
 
-Sometimes, the facilitator might promise to attend to the points we raise during classtime at a later time. In this case, we know that he/she means well and that he/she is doing his/her best to cater to everyone, hence we remind ourselves that he/she might forget to attend to the point and take it upon ourselves to remind his/her later without feeling bad about it.
+1. **for me:** I know that others strive to ensure that I am ...
+2. **for others:** I strive to ensure that others are ...
+
+> ... ensuring that the learning personality and way of logical comprehension of each and everyone are highly-regarded, respected and are never out of place, and hence we individually know that when we get distracted during class, miss a few steps in a workshop, look at the wrong slide, or not understand something, that we are so invited to raise our hand, un-mute ourselves, and/or express our confusion immediately and in an unapologetic manner. Doing this, we know that it is highly encouraged, for the best of everyone in the classroom and feel totally safe and assured that no one will perceive this as disruptive or that any of this will result in behavioral accusations from anyone.
+
+> Sometimes, the facilitator might promise to attend to the points we raise during class time at a later time. In this case, we know that he/she means well and that he/she is doing his/her best to cater to everyone, hence we remind ourselves that he/she might forget to attend to the point and take it upon ourselves to remind his/her later without feeling bad about it.
 
 ```
 <<< MANIFESTO ENDS HERE
