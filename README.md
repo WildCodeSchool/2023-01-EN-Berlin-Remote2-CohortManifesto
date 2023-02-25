@@ -121,7 +121,7 @@ _This is two sections in one, with two possible formulations for each one of the
 
 > We know that when this happens that it does not mean that our intervention was viewed negatively, but rather the opposite. We know that we have done the right thing by voicing our doubts.
 
-> In the case of promising to attend to the point(s) later, we know that the facilitator might forget to attend to the point(s) later. If this happened, we take it upon ourselves to remind him/her later without feeling bad about it, or thinking that they are avoiding us or felt bad about the point(s) we raised, which is most certainly not the case.
+> In the case of promising to attend to the point(s) later but it not happening, we know that the facilitator have probably forgotten. If this happened, we take it upon ourselves to remind him/her later without feeling bad about it, or thinking that they are avoiding us or felt bad about the point(s) we raised, which is most certainly not the case.
 
 ```
 <<< MANIFESTO ENDS HERE
