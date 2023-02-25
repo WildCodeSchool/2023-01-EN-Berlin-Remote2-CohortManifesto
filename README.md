@@ -113,11 +113,15 @@ _This is two sections in one, with two possible formulations for each one of the
 > - not understand why the class is taking a certain direction
 
 > ... that we are so invited 🥰 to raise our hand, un-mute ourselves, and express our confusion immediately. Doing so, we know that it:
-> - is highly encouraged and pleasing to the facilitator, 
-> - serves a wonderful purpose for everyone in the classroom
+> - is highly encouraged and pleasing to the facilitator to do this, 
+> - serves a wonderful purpose for everyone in the classroom who might be thinking similarly,
 > - is a positive action that will never be perceived as disruptive, or lead to behavioral accusations from anyone.
 
-> Sometimes, the facilitator might promise to attend to the points we raise during class time at a later time. In this case, we know that he/she means well and that he/she is doing his/her best to cater to everyone, hence we remind ourselves that he/she might forget to attend to the point and take it upon ourselves to remind his/her later without feeling bad about it.
+> Note that sometimes, some people in the classroom or the facilitator might decide that it is better to attend to the points we raise during class time at a later time.
+
+> We know that this did not mean that our intervention was viewed negatively, rather the opposite. We know that we have done the right thing by voicing our doubts.
+
+> In the case of promising to attend to the points later, we know that the facilitator might forget to attend to the point(s) later. If this happened, we take it upon ourselves to remind him/her later without feeling bad about it, or thinking that they are avoiding us or felt bad about the point(s) we raised, which is most certainly not the case.
 
 ```
 <<< MANIFESTO ENDS HERE
