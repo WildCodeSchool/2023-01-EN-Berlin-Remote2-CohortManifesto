@@ -117,7 +117,7 @@ _This is two sections in one, with two possible formulations for each one of the
 > - serves a wonderful purpose for everyone in the classroom who might be thinking similarly,
 > - is a positive action that will never be perceived as disruptive, or lead to behavioral accusations from anyone.
 
-> Note that sometimes, some people in the classroom and/or the facilitator might decide that it is better to attend to the points we raise during class time at a later time.
+> Note that sometimes, some people in the classroom and/or the facilitator might decide that it is better to attend to the point(s) we raise at a later point in time, after the class.
 
 > We know that when this happens that it does not mean that our intervention was viewed negatively, rather the opposite. We know that we have done the right thing by voicing our doubts.
 
