@@ -88,9 +88,15 @@ _This is two sections in one, with two possible formulations for each one of the
 1. **for me:** I know that others strive to ensure that I am ...
 2. **for others:** I strive to ensure that others are ...
 
-> ... accepted regardless of their looks, race, gender, religious belief, habits, preferences, way of expression, personal style, or manners. What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us when our "way of being" triggers them, or collides with their sense of well-being and/or comfort.
+> ... accepted regardless of their looks, race, gender, religious belief, habits, preference, way of expression, personal style, or manners.
 
-> We know that it is normal that sometimes, some people might not feel comfortable with "us being ourselves". We know that when this happens, that we will together try to find a way to allow us all to be ourselves while making each other comfortable. It will not be a personal attack on anyone of us when this happens and we will naturally feel inclined to understand one another and to help them be as comfortable as possible without judgement.
+> What is most important for us is to be fully comfortable during class, which means being fully ourselves and trusting that others will tell us when our "way of being" triggers them, or collides with their sense of well-being and/or comfort.
+
+> We know that sometimes, some people might not feel comfortable with "us being ourselves". It is totally normal that such things happen.
+
+> We know that when this happens, we will together try to find a way to allow us all to be ourselves while making each other comfortable.
+
+> It will not be a personal attack on anyone when something like this happens, and we will feel inclined to understand one another and to help them be as comfortable as possible without judgement.
 
 ## Emotional safety
 
