@@ -111,6 +111,7 @@ _This is two sections in one, with two possible formulations for each one of the
 > - miss a few steps during a workshop,
 > - look at the wrong slide,
 > - not understand why the class is taking a certain direction
+
 > ... that we are so invited 🥰 to raise our hand, un-mute ourselves, and express our confusion immediately. Doing so, we know that it:
 > - is highly encouraged and pleasing to the facilitator, 
 > - serves a wonderful purpose for everyone in the classroom
