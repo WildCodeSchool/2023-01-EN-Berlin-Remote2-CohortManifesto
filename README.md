@@ -101,7 +101,7 @@ _This is two sections in one, with two possible formulations for each one of the
 1. **for me:** I trust that others are ...
 2. **for others:** I am ...
 
-> ... putting a conscious effort into not emotionally maniopulating, bullying, lobbying with others, passing hidden messages, or using silent aggression. Instead, we have complete faith that everyone in the classroom will communicate openly and honestly with one another and that we will use effective and empathetic communication to achieve harmony, overcome conflict, and widen our perspectives.
+> ... putting a conscious effort into not emotionally manipulating, bullying, lobbying with others, passing hidden messages, or using silent aggression with anyone. Instead, we have complete faith that everyone in the classroom will communicate openly and honestly with one another and that we will use effective and empathetic communication to achieve harmony, overcome conflict, and widen our perspectives.
 
 ## Logical safety
 
