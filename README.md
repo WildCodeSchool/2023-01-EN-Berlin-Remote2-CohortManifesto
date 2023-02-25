@@ -121,10 +121,10 @@ _This is two sections in one, with two possible formulations for each one of the
 > - look at the wrong slide,
 > - not understand why the class is taking a certain direction
 
-> ... that we are so invited 🥰 to raise our hand, un-mute ourselves, and express our confusion immediately. Doing so, we know that it:
-> - is highly encouraged and pleasing to the facilitator to do this, 
-> - serves a wonderful purpose for everyone in the classroom who might be thinking similarly,
-> - is a positive action that will never be perceived as disruptive, or lead to behavioral accusations from anyone.
+> ... that we are so invited 🥰 to raise our hand, un-mute ourselves, and express our confusion immediately. Doing so, we know that:
+> - it is highly encouraged and pleasing to the facilitator to do this, 
+> - it serves a wonderful purpose for everyone in the classroom who might be thinking similarly,
+> - it is a positive action that will never be perceived as disruptive, or lead to behavioral accusations from anyone.
 
 > Note that sometimes, some people in the classroom and/or the facilitator might think that it is better to attend to the point(s) raised at a later time. This might be due to time limitations, or due to pedagogical reasons.
 
